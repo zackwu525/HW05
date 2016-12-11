@@ -1,0 +1,114 @@
+
+body {
+    background-image: url(15338629_10155015951060695_7621433085361021052_n.jpg);
+    text-align: center;
+}
+
+    
+    .plan {
+        background-image: url(15338629_10155015951060695_7621433085361021052_n.jpg);
+        
+        text-align: center;
+    }
+    
+    .col {
+        width: 25%;
+        height: 400px;
+        background: white;
+        display: inline-block;
+        margin: 50px 12px;
+    }
+    
+    .price-box {
+        width: 100%;
+        height: 200px;
+        background: darkgray;
+        color: white;
+    }
+    
+    .plan-text {
+        text-align: center;
+        padding: 20PX 0PX;
+        font-family: verdana;
+        font-size: 23PX;
+    }
+    
+    .price-text * {
+        display: inline-block;
+        font-family: verdana;
+    }
+    
+    .price-text {
+        text-align: center;
+    }
+    
+    .amount {
+        font-size: 50px;
+        padding: 5px 15px;
+    }
+    
+    .dollar {
+        vertical-align: top;
+        padding-top: 8px;
+    }
+    
+    .btn-box {
+        text-align: center;
+        font-family: verdana;
+        border: 2px solid white;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 6px 0px;
+        border-radius: 6px;
+        margin-top: 15px;
+    }
+    
+    .fa-all {
+        width: 230px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    
+    .fa-1 * {
+        display: inline-block;
+    }
+    
+    .fa-1 {
+        text-align: left;
+        width: 60%;
+        padding-top: 30px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #cccbcb;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .fa-text {
+        font-size: 13px;
+        color: darkgrey;
+    }
+    
+    [class*="limit"] {
+        color: pink
+    }
+    
+    i {
+        color: darkgrey;
+        margin-right: 5px;
+    }
+    
+    .fa-2 * {
+        display: inline-block;
+    }
+    
+    .fa-2 {
+        text-align: left;
+        width: 60%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #cccbcb;
+        margin-left: auto;
+        margin-right: auto;
+      }
